@@ -1,0 +1,4 @@
+text-<color>
+- color: danger | success | drak-grey | primary | info
+- white-%
+- black-%

@@ -1,0 +1,29 @@
+<table class="<style>">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+		<tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Khanh</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<th>Halo Kitty</th>
+			<th>999999</th>
+		</tr>
+	</tbody>
+</table>
+
+<style> : table | table table-striped | table-hover | table-bordered | table-<color> | table-borderless
+
+thead-<color>
+table-sm: table small
+table-responsive
+<div>
+	<table class="table">
+	...
+	</table>
+</div>

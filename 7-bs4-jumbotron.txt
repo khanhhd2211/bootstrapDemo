@@ -1,0 +1,13 @@
+normal
+<div class="container">
+	<div class="jumbotron">
+		...
+	</div>
+</div>
+
+Full-width jumbotron
+<div class="jumbotron jumbotron-fluid">
+	<div class=container>
+		...
+	</div>
+</div>

@@ -1,0 +1,6 @@
+arlert arlert-<color>
+
+Closing Alerts
+<div class="alert alert-<color> arlert-dimissible fade show">
+	<button class="close" data-dismiss="arlert">&times;</button>
+</div>

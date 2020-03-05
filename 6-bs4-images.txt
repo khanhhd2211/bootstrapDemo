@@ -1,0 +1,9 @@
+<img src="blabla.jpg" class="<bootstrap-class>" alt="Bla Bla">
+<bootstrap-class>: 
+- rounded
+- rounded-circle
+- ing-thumbnail
+- float-left: left
+- float-right: right
+- mx-auto d-block: center
+- img-fluid: responsive img 

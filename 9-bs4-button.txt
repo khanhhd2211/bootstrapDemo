@@ -1,0 +1,5 @@
+<button type="button" class="btn">Basic</button>
+<button type="button" class"btn btn-<color> | btn-outline-<color> btn-lg | btn-sm btn-block">Click</button>
+can be use on <a> | <input>
+
+active | disabled

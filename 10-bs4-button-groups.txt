@@ -1,0 +1,7 @@
+<div class="btn-group btn-group-<size>">
+	<button class="btn btn-primary">Click1</button>
+	<button class="btn btn-danger">Click2</button>
+	<button class="btn btn-info">Click3</button>
+</div>
+
+btn-group-vertical

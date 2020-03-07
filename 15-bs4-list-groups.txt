@@ -1,0 +1,47 @@
+Basic
+
+<ul class="list-group"> 
+	<li class="list-group-item">Text 1</li>
+	<li class="list-group-item">Text 2</li>
+	<li class="list-group-item">Text 3</li>
+</ul>
+
+Linked Item
+<div class="list-group">
+	<a class="list-group-item" href="#">Item 1</a>
+	<a class="list-group-item" href="#">Item 1</a>
+	<a class="list-group-item" href="#">Item 1</a>
+</div>
+
+Disabled items
+
+<div class="list-group">
+	<a class="list-group-item list-group-item-action disabled" href="#">Disabled Item</a>
+	<a class="list-group-item list-group-item-action" href="#">Item 1</a>
+	<a class="list-group-item list-group-item-action" href="#">Item 1</a>
+</div>
+
+Flush/ Remove Border
+
+
+<div class="list-group list-group-flush">
+	<a class="list-group-item list-group-item-action" href="#">Disabled Item</a>
+	<a class="list-group-item list-group-item-action" href="#">Item 1</a>
+	<a class="list-group-item list-group-item-action" href="#">Item 1</a>
+</div>
+
+Horizontal List Groups
+
+<ul class="list-group list-group-horizontal"> 
+	<li class="list-group-item">Text 1</li>
+	<li class="list-group-item">Text 2</li>
+	<li class="list-group-item">Text 3</li>
+</ul>
+
+Contextual Classes 
+
+<ul class="list-group list-group-horizontal"> 
+	<li class="list-group-item list-group-item-success">Text 1</li>
+	<li class="list-group-item">Text 2</li>
+	<li class="list-group-item">Text 3</li>
+</ul>

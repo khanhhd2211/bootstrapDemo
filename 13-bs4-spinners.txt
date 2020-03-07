@@ -1,0 +1,3 @@
+<div class="spinner-[border | grow] text-<color>"></div>
+
+<span class="spinner-[border | grow] text-<color>"></span>

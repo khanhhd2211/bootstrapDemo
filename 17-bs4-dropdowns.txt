@@ -1,0 +1,28 @@
+Basic
+
+<div class="dropdown">
+	<button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+		Sony
+	</button>
+	<div class="dropdown-menu">
+		<a class="dropdown-item">item 1</a>
+		<a class="dropdown-item">item 1</a>
+		<a class="dropdown-item">item 1</a>
+	</div>
+</div>
+
+.dropdown-divider
+.dropdown-header
+
+.dropdown .dropright
+.dropdown .dropleft
+.dropdown .dropup
+
+.dropdown-menu .dropdown-menu-left
+.dropdown-menu .dropdown-menu-right
+
+.btn-group
+.btn-group-vertical
+
+data-toggle-split
+
